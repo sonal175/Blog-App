@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Roboto:wght@500&display=swap");
+* {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+body {
+  background-image: url(/src/images/blogging.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:auto;
+  width: 100%;
+  z-index: 2;
+  
+}
+ .a {
+       background-color: white;
+       width: 500px;
+       position:relative;
+       right:50px;
+       left:375px;
+       border: 10px;
+       border-color: black;
+      
+ }
+ .b {
+  background-color: white;
+  width: 700px;
+  position:relative;
+  right:50px;
+  left:295px;
+  border-radius: 35px;
+ 
+ }
+
