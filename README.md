@@ -27,5 +27,34 @@ Signin/ Signup page
 
 
  
+ ![signup](https://user-images.githubusercontent.com/69459167/200896584-27f3d1bc-1451-43d9-8e1f-a5be68bdd809.png)
+
+
+Starting stage
+
+
+ ![start](https://user-images.githubusercontent.com/69459167/200897449-c91eaa8a-cad8-4415-ba2d-8e23fa4f80e3.png)
+
+
+Add blog stage
+
+
+ ![blog 1](https://user-images.githubusercontent.com/69459167/200897882-60bfed6d-6a36-4d98-ae60-f752faa55aa4.png)
  
-   ![image  ](https://user-images.githubusercontent.com/69459167/200896151-bbbb440c-46b1-4ee6-89e1-1789974a13f9.png)
+ 
+Blog main page
+
+
+![blog2](https://user-images.githubusercontent.com/69459167/200898804-d6879b4a-a89b-4800-81e1-9d62b2805f8c.png)
+
+
+
+![blog 3](https://user-images.githubusercontent.com/69459167/200899377-f42c3eb4-a50d-487c-bc92-9ed0589b8d2c.png)
+
+
+Thank you,
+Hope you like it
+
+
+
+
