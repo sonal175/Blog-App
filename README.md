@@ -9,6 +9,10 @@
  4. Each blog is attached with mongoDB database and all its information are stored there.
  5. It also contains authentication feature so that all passwords are protected.
  
+ Tech stacks used-
+ Frontend- React.js, HTML, CSS, Tailwind CSS, Bootstrap, Redux.js, Angular.js
+ Backend- Node.js, MongoDB, Nosql,Angular.js, Graphsql
+ 
  Login-page
  
  
@@ -17,3 +21,11 @@
 
 ![Screenshot (9)](https://user-images.githubusercontent.com/69459167/200893113-8cce682b-ddff-4392-b015-86c6696351bc.png)
 
+
+Signin/ Signup page
+
+
+
+ 
+ 
+   ![image  ](https://user-images.githubusercontent.com/69459167/200896151-bbbb440c-46b1-4ee6-89e1-1789974a13f9.png)
