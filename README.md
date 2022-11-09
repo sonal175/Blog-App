@@ -11,6 +11,7 @@
  
  Tech stacks used-
  Frontend- React.js, HTML, CSS, Tailwind CSS, Bootstrap, Redux.js, Angular.js
+ 
  Backend- Node.js, MongoDB, Nosql,Angular.js, Graphsql
  
  Login-page
